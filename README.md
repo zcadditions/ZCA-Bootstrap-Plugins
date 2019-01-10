@@ -18,4 +18,4 @@ Suggest a new plugin for bootstrap compatibility.
 
 2 - Apply the "new plugin" label to the issue
 
-3 - Provide a link to the Zen-Cart Plugin
+3 - Provide a link to where you've seen this along with a detailed description.
